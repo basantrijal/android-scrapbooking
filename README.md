@@ -1,8 +1,8 @@
-#Scrapbooking Android App Assignment
+# Scrapbooking Android App Assignment
 
-#Internationalization language used - Nepali
+## Internationalization language used - Nepali
 
-This project covers all the questions below mentioned form the text book "Android HOW TO PROGRAM SECOND EDITION" page number 68.
+This project covers all the questions below mentioned from the text book "Android HOW TO PROGRAM SECOND EDITION" page number 68.
 
 2.5 (Scrapbooking App) Find four open source images of famous landmarks using websites such
 as Flickr. Create an app in which you arrange the images in a collage. Add text that identifies each
