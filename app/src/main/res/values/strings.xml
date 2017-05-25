@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScrapBooking</string>
+    <string name="nepal">Nepal</string>
+    <string name="america">America</string>
+    <string name="canada">Canada</string>
+    <string-array name="landMarksArray">
+        <item>@string/nepal</item>
+        <item>@string/america</item>
+        <item>@string/canada</item>
+    </string-array>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+</resources>

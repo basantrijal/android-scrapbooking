@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्क्रप्बूकिङ</string>
+    <string name="nepal">नेपाल</string>
+    <string name="america">अमेरिका</string>
+    <string name="canada">क्यानाडा</string>
+
+    <string-array name="landMarksArray">
+        <item>@string/nepal</item>
+        <item>@string/america</item>
+        <item>@string/canada</item>
+    </string-array>
+</resources>
